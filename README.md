@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dolophine
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 Сurrently learning JS
 
 <!---
 dolophine/dolophine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
